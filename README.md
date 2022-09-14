@@ -1,2 +1,2 @@
 # Favorite-Book-SwiftUI-
-This is an app built completely with SwiftUI and shows users favorite movies and bands. First, I used favorite model to generate my elements.  
+This is an app built completely with SwiftUI and shows users favorite movies and bands. First, I used Favorite Model file to generate my elements. In this file, I benefited from structs and initialized them to form bands and movies. Moreover, in Content View file, I used , List, and section and for each loops in order to demonstrate the elements in list form. Furthermore, 
